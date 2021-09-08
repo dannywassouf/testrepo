@@ -1,0 +1,5 @@
+danny.txt
+
+
+*.doc
+!d.doc
